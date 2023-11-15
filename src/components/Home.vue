@@ -72,7 +72,7 @@
       <main>
         <!-- projects -->
         <section class="box project section" ref="Project">
-          <span @click="projectShowed = 1; timeTwo = .5; timeOne = 1; toProject = 'https://github.com/lowieen/low'"><ion-icon :src="chevronBackOutline" :class="{disabled: projectShowed === 1}"></ion-icon></span>
+          <span @click="projectShowed = 1; timeTwo = .5; timeOne = 1; toProject = 'https://lowieen.github.io/low/'"><ion-icon :src="chevronBackOutline" :class="{disabled: projectShowed === 1}"></ion-icon></span>
           <div class="container project">
             <div class="box-protects">
               <div class="views-projects">
