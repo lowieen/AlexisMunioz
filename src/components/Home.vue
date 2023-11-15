@@ -96,7 +96,7 @@
               </div>
             </div>
           </div>
-          <span @click="projectShowed = 2; timeTwo = 1; timeOne = .5; toProject = 'https://github.com/lowieen/Cheq'"><ion-icon :src="chevronForwardOutline" :class="{disabled: projectShowed === 2}"></ion-icon></span>
+          <span @click="projectShowed = 2; timeTwo = 1; timeOne = .5; toProject = 'https://lowieen.github.io/Cheq/'"><ion-icon :src="chevronForwardOutline" :class="{disabled: projectShowed === 2}"></ion-icon></span>
         </section>
   
         <!-- about me -->
@@ -194,7 +194,7 @@
         contentProjectOne: 'Autenticación de usuarios, notificaciones, mensajes, perfil de cada usuario, realizar publicaciones (likearlas, ocultar o eliminar), buscador de usuarios y seguimiento, agregar o eliminar información personal.',
         titleProjectTwo: 'Ecommerce',
         contentProjectTwo: 'Autenticación de usuarios, perfil de cada usuario con sus datos personales a modificar, compras realizadas, carrito de compras, checkout, panel de admin para agregar quitar o modificar productos.',
-        toProject: 'https://github.com/lowieen/low',
+        toProject: 'https://lowieen.github.io/low/login',
         //menu
         menuVisible: 0,
         //sections
