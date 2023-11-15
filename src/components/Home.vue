@@ -194,7 +194,7 @@
         contentProjectOne: 'Autenticación de usuarios, notificaciones, mensajes, perfil de cada usuario, realizar publicaciones (likearlas, ocultar o eliminar), buscador de usuarios y seguimiento, agregar o eliminar información personal.',
         titleProjectTwo: 'Ecommerce',
         contentProjectTwo: 'Autenticación de usuarios, perfil de cada usuario con sus datos personales a modificar, compras realizadas, carrito de compras, checkout, panel de admin para agregar quitar o modificar productos.',
-        toProject: 'https://lowieen.github.io/low/login',
+        toProject: 'https://lowieen.github.io/low/',
         //menu
         menuVisible: 0,
         //sections
